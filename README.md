@@ -183,6 +183,6 @@ Xóa service khi tập xong:
 gcloud run services delete hello-word-api --region asia-southeast1
 ```
 
-Lệnh này chỉ xóa service. Image trong Artifact Registry, build artifacts và database Firestore vẫn tồn tại; dọn chúng trong Console khi không dùng nữa.
+Image trong Artifact Registry, build artifacts và database Firestore vẫn tồn tại; dọn chúng trong Console khi không dùng nữa.
 
 Tài liệu chính thức: [Expo SDK](https://docs.expo.dev/versions/latest/), [Cloud Run source deploy](https://cloud.google.com/run/docs/deploying-source-code), [Cloud Run service identity](https://cloud.google.com/run/docs/securing/service-identity), [Firebase Admin / ADC](https://firebase.google.com/docs/admin/setup).
