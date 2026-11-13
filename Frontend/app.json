@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Hello Word",
+    "slug": "hello-word",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.demo.helloword"
+    },
+    "ios": {
+      "bundleIdentifier": "com.demo.helloword",
+      "supportsTablet": true
+    }
+  }
+}
